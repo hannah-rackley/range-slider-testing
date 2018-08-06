@@ -1,0 +1,19 @@
+/* html, body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+} */
+.slider {
+    margin: auto;
+    width: 100%;
+}
+
+.values {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tone-select {
+    margin-bottom: 20px;
+}
